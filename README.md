@@ -10,6 +10,6 @@ https://github.com/RavenSoren/PYUtilities-PYU
 
 The .exe is a direct program and there is no installer. To add it to your startup apps to always have it run on startup press Windows + R and type shell:startup and click enter. Then drag the .exe into the folder and restart your computer.
 
-#Disclaimer
+# Disclaimer
 
 Parts of this project were assisted by AI tools as I continue learning and improving my development skills.
