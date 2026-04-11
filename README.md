@@ -13,3 +13,8 @@ The .exe is a direct program and there is no installer. To add it to your startu
 # Disclaimer
 
 Parts of this project were assisted by AI tools as I continue learning and improving my development skills.
+
+
+<p align="center">
+  <img src="log.png" alt="PYU Logo" width="500"/>
+</p>
